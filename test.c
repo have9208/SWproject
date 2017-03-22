@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("commit_05\n");
+	printf("commit_06\n");
 
 	return 0;
 }
